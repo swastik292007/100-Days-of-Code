@@ -5,6 +5,7 @@ int main() {
     int length, breadth, area, perimeter;
 
     // Input length and breadth
+    printf("enter length and breadth: \n");
     scanf("%d %d", &length, &breadth);
 
     // Calculate area and perimeter
