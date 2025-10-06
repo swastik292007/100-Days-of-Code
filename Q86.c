@@ -4,7 +4,8 @@
 int main() {
     char str[100];
     int i, len, flag = 1;
-
+    
+    printf("enter word: ");
     scanf("%s", str);   // Input (single word as per sample test case)
 
     len = strlen(str);

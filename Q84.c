@@ -3,7 +3,7 @@
 int main() {
     char str[100];
     int i = 0;
-
+    printf("enter string: ");
     scanf("%[^\n]s", str);  // Input with spaces too
 
     while (str[i] != '\0') {

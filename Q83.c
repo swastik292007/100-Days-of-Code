@@ -5,7 +5,8 @@
 int main() {
     char str[100];
     int vowels = 0, consonants = 0, i = 0;
-
+    
+    printf("enter a string: ");
     scanf("%[^\n]s", str);  // Input with spaces too
 
     while (str[i] != '\0') {
