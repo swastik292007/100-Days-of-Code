@@ -1,0 +1,5 @@
+swastik 1 100
+laksh 2 75
+sumit 3 80
+ashish 4 85
+kishore 5 95
